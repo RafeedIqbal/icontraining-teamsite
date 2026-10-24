@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "nodemailer": "^8.0.10"
+    "nodemailer": "^10.2.1"
+  },
+  "engines": {
+    "node": "^24.22.1"
   }
 }
